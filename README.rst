@@ -1,4 +1,4 @@
-TempMailz
+Balabobaz
 =========
 
 Модуль для Python для взаимодействия с Балабобой(https://yandex.ru/lab/yalm).
